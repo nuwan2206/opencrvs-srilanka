@@ -1,17 +1,26 @@
 admin2Name_en,admin2Name_alias,admin2Pcode,admin1Name_en,admin1Name_alias,admin1Pcode,admin0Name_en,admin0Name_alias,admin0Pcode
-Ibombo,Ibombo,oEBf29y8JP8,Central,Central,AWn3s2RqgAN,Farajaland,Farajaland,FAR
-Ilanga,Ilanga,HPGiE9Jjh2r,Sulaka,Sulaka,KozcEjeTyuD,Farajaland,Farajaland,FAR
-Embe,Embe,BxrIbNW7f3K,Pualula,Pualula,B1u1bVtIA92,Farajaland,Farajaland,FAR
-Ama,Ama,SQT8xjbvWwf,Chuminga,Chuminga,dbTLdTi7s8F,Farajaland,Farajaland,FAR
-Isamba,Isamba,ntoX1PkiWri,Central,Central,AWn3s2RqgAN,Farajaland,Farajaland,FAR
-Irundu,Irundu,SvFNQpplnch,Sulaka,Sulaka,KozcEjeTyuD,Farajaland,Farajaland,FAR
-Ienge,Ienge,NLjvK1QsrN3,Pualula,Pualula,B1u1bVtIA92,Farajaland,Farajaland,FAR
-Nsali,Nsali,hywxVKv48Xp,Chuminga,Chuminga,dbTLdTi7s8F,Farajaland,Farajaland,FAR
-Itambo,Itambo,QTtxiWj8ONP,Central,Central,AWn3s2RqgAN,Farajaland,Farajaland,FAR
-Zobwe,Zobwe,Oapn6R4rt3D,Sulaka,Sulaka,KozcEjeTyuD,Farajaland,Farajaland,FAR
-Funabuli,Funabuli,idR0pJWLqcR,Pualula,Pualula,B1u1bVtIA92,Farajaland,Farajaland,FAR
-Soka,Soka,jCJxK8sFH40,Chuminga,Chuminga,dbTLdTi7s8F,Farajaland,Farajaland,FAR
-Ezhi,Ezhi,ydyJb1RAy4U,Central,Central,AWn3s2RqgAN,Farajaland,Farajaland,FAR
-Afue,Afue,nO68NTtcdw2,Sulaka,Sulaka,KozcEjeTyuD,Farajaland,Farajaland,FAR
-Pili,Pili,FuvOOwvBw0p,Pualula,Pualula,B1u1bVtIA92,Farajaland,Farajaland,FAR
-Chibiya,Chibiya,R22tRIhdm5Y,Chuminga,Chuminga,dbTLdTi7s8F,Farajaland,Farajaland,FAR
+Colombo,Colombo,LK11,Western,Western,LK1,Sri Lanka,Sri Lanka,LK
+Gampaha,Gampaha,LK12,Western,Western,LK1,Sri Lanka,Sri Lanka,LK
+Kalutara,Kalutara,LK13,Western,Western,LK1,Sri Lanka,Sri Lanka,LK
+Kandy,Kandy,LK21,Central,Central,LK2,Sri Lanka,Sri Lanka,LK
+Matale,Matale,LK22,Central,Central,LK2,Sri Lanka,Sri Lanka,LK
+Nuwara Eliya,Nuwara Eliya,LK23,Central,Central,LK2,Sri Lanka,Sri Lanka,LK
+Galle,Galle,LK31,Southern,Southern,LK3,Sri Lanka,Sri Lanka,LK
+Matara,Matara,LK32,Southern,Southern,LK3,Sri Lanka,Sri Lanka,LK
+Hambantota,Hambantota,LK33,Southern,Southern,LK3,Sri Lanka,Sri Lanka,LK
+Jaffna,Jaffna,LK41,Northern,Northern,LK4,Sri Lanka,Sri Lanka,LK
+Mannar,Mannar,LK42,Northern,Northern,LK4,Sri Lanka,Sri Lanka,LK
+Vavuniya,Vavuniya,LK43,Northern,Northern,LK4,Sri Lanka,Sri Lanka,LK
+Mullaitivu,Mullaitivu,LK44,Northern,Northern,LK4,Sri Lanka,Sri Lanka,LK
+Kilinochchi,Kilinochchi,LK45,Northern,Northern,LK4,Sri Lanka,Sri Lanka,LK
+Batticaloa,Batticaloa,LK51,Eastern,Eastern,LK5,Sri Lanka,Sri Lanka,LK
+Ampara,Ampara,LK52,Eastern,Eastern,LK5,Sri Lanka,Sri Lanka,LK
+Trincomalee,Trincomalee,LK53,Eastern,Eastern,LK5,Sri Lanka,Sri Lanka,LK
+Kurunegala,Kurunegala,LK61,North Western,North Western,LK6,Sri Lanka,Sri Lanka,LK
+Puttalam,Puttalam,LK62,North Western,North Western,LK6,Sri Lanka,Sri Lanka,LK
+Anuradhapura,Anuradhapura,LK71,North Central,North Central,LK7,Sri Lanka,Sri Lanka,LK
+Polonnaruwa,Polonnaruwa,LK72,North Central,North Central,LK7,Sri Lanka,Sri Lanka,LK
+Badulla,Badulla,LK81,Uva,Uva,LK8,Sri Lanka,Sri Lanka,LK
+Monaragala,Monaragala,LK82,Uva,Uva,LK8,Sri Lanka,Sri Lanka,LK
+Ratnapura,Ratnapura,LK91,Sabaragamuwa,Sabaragamuwa,LK9,Sri Lanka,Sri Lanka,LK
+Kegalle,Kegalle,LK92,Sabaragamuwa,Sabaragamuwa,LK9,Sri Lanka,Sri Lanka,LK
